@@ -30,6 +30,7 @@ A Python application (using tkinter) that detects and highlights a man wearing a
 - Expand dataset for diverse cap styles.
 - Integrate with other computer vision applications.
 
+![Live_cap_Sample](https://github.com/user-attachments/assets/a6131741-a7bc-4bae-80d5-5ce4c056c21e)
 
 
 

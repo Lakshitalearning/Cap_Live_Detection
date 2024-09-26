@@ -32,7 +32,6 @@ A Python application (using tkinter) that detects and highlights a man wearing a
 
 # Sample #
 
-![image](https://github.com/user-attachments/assets/7c115c7c-13d3-4140-96c4-2f62622bedfc)
 
-
+![Live_cap_Sample1 png](https://github.com/user-attachments/assets/2eaed066-ba08-4235-83be-3d7636599f45)
 
